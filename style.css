@@ -1,0 +1,96 @@
+nav ul li a {
+	font-weight: bold;
+	color:black ;
+	font-size: 15px;
+	font-family: verdana;
+	text-transform: uppercase;
+}
+
+nav ul {
+	margin-right: 50px;
+}
+
+nav ul li {
+	margin-right: 10px;
+}
+
+li a:hover{
+    background-color:white;
+	border-radius: 30% 30%;
+	
+}
+
+.carousel {
+	margin-top: 50px;
+}
+
+section#about {
+	margin-bottom: 20px;
+}
+
+section#about h2 {
+	margin-top: 80px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+section#about p {
+	
+	text-align: center;
+    margin-left: 20%;
+}
+
+section#product {
+    
+    padding-bottom: 50px;
+}
+
+
+section#product h2  {
+	margin-top: 100px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+section#product .card {
+	margin-left: 50px;
+
+}
+
+footer a i {
+	margin-right: 15px;
+}
+
+section#vision {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+section#vision h2.textvision {
+	margin-top: 50px;
+	width: 50%;
+	border-radius: 5% 5%;
+}
+
+section#contact h2  {
+	margin-top: 50px;
+	;
+}
+
+section#contact {
+    
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+footer {
+	color: blanchedalmond;
+	font-size: small;
+	font-style: italic;
+	text-align: center;
+}
+
+
+
+
+
