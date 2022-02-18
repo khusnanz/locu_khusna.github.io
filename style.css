@@ -14,11 +14,11 @@ nav ul li {
 	margin-right: 10px;
 }
 
-li a:hover{
+/* li a:hover{
     background-color:white;
 	border-radius: 30% 30%;
 	
-}
+} */
 
 .carousel {
 	margin-top: 50px;
@@ -81,6 +81,9 @@ section#contact {
     
     padding-top: 10px;
     padding-bottom: 50px;
+}
+section#shopee p a{
+	margin-left: 50%;
 }
 
 footer {
